@@ -1,4 +1,4 @@
-Go inside to see the definition: **Ctrl + ]i**
+Go inside to see the definition: **Ctrl + ]**
 
 Go back to previous location (not necessarily a buffer): **Ctrl + o**
 
