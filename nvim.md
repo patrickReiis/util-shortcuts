@@ -9,3 +9,5 @@ Goes back to previously edited buffer: **:b#**
 Opens explorer: **:E** 
 
 Opens explorer (if the above didn't work): **:Explore**
+
+Turn off highlighting until the next search: **:noh**
