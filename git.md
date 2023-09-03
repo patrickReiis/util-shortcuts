@@ -13,4 +13,4 @@ goes back a commit: **git reset HEAD^**
 
 **git merge feature-branch**
 
------- end how too rebase
+------ end how to rebase
