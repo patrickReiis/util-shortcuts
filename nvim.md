@@ -11,3 +11,7 @@ Opens explorer: **:E**
 Opens explorer (if the above didn't work): **:Explore**
 
 Turn off highlighting until the next search: **:noh**
+
+center line on cursor, the cursor stays where it is: **zz**
+
+center line on cursor, the cursor goes to the first non-whitespace character: **z.**
