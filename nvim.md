@@ -15,3 +15,5 @@ Turn off highlighting until the next search: **:noh**
 center line on cursor, the cursor stays where it is: **zz**
 
 center line on cursor, the cursor goes to the first non-whitespace character: **z.**
+
+on current word displays the documentation: **K**
