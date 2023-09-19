@@ -17,3 +17,15 @@ center line on cursor, the cursor stays where it is: **zz**
 center line on cursor, the cursor goes to the first non-whitespace character: **z.**
 
 on current word displays the documentation: **K**
+
+go to letter on line: **f**
+
+go to letter on line (reversed): **F**
+
+go to previous letter on line: **t**
+
+go to previous letter on line (reversed): **T**
+
+repeat action of going to letters (foward): **;**
+
+repeat action of going to letters (backwards): **,**
