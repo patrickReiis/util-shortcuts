@@ -29,3 +29,7 @@ go to previous letter on line (reversed): **T**
 repeat action of going to letters (foward): **;**
 
 repeat action of going to letters (backwards): **,**
+
+Scroll the window up: **Ctrl + y**
+
+Scroll the window down: **Ctrl + e**
