@@ -1,3 +1,7 @@
+undo last change: **u**
+
+redo the undone change: **Ctrl + r**
+
 Go inside to see the definition: **Ctrl + ]**
 
 Go back to previous location (not necessarily a buffer): **Ctrl + o**
