@@ -37,3 +37,7 @@ repeat action of going to letters (backwards): **,**
 Scroll the window up: **Ctrl + y**
 
 Scroll the window down: **Ctrl + e**
+
+Forward to next function declaration: **]]**
+
+Backward to previous function declaration: **[[**
