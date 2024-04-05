@@ -1,0 +1,3 @@
+Ditto - List events
+
+nak req ws://localhost:8000/relay | jq
