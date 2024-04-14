@@ -1,3 +1,6 @@
 Ditto - List events
 
 nak req ws://localhost:8000/relay | jq
+
+Snort request
+nak req -k 6 -l 3 wss://relay.snort.social
