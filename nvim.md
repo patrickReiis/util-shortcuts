@@ -53,4 +53,4 @@ place the cursor at the same position where it was left last time in the Insert 
 View the jump list: **:jumps** 
 See **:h jump-motions** for more details.
 
-
+find next word that mouse cursor is hovering: **\***
