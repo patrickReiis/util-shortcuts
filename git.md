@@ -25,4 +25,16 @@ git add src/*
 git commit -m "feat: hi"  
 ***git push -u origin <123.branch>***
 ```
------- end PUSH TO REMOTE BRANCH // OPEN MERGE REQUEST
+------ end PUSH TO REMOTE BRANCH // OPEN MERGE REQUEST  
+
+------ start PUSH COMMIT TO OPEN MERGE REQUEST YOU DID NOT CREATE
+```
+git fetch
+git checkout origin/<my-branch>
+// do some changes  
+git add src/*  
+git commit -m "feat: hi"  
+***git push origin HEAD:<branch-name>***
+```
+------ end PUSH TO REMOTE BRANCH // OPEN MERGE REQUEST  
+
