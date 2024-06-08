@@ -15,3 +15,14 @@ goes back a commit: **git reset HEAD^**
 **git merge feature-branch**
 
 ------ end how to rebase
+
+
+------ start PUSH TO REMOTE BRANCH // OPEN MERGE REQUEST
+```
+git checkout -B <123-branch>  
+// do some changes  
+git add src/*  
+git commit -m "feat: hi"  
+***git push -u origin <123.branch>***
+```
+------ end PUSH TO REMOTE BRANCH // OPEN MERGE REQUEST
