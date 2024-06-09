@@ -55,5 +55,5 @@ See **:h jump-motions** for more details.
 
 find next word that mouse cursor is hovering: **\***
 
-open all foldings 1 level: **za**  
+open all foldings 1 level: **zr**  
 close all foldings 1 level: **zm**
