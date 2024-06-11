@@ -57,3 +57,7 @@ find next word that mouse cursor is hovering: **\***
 
 open all foldings 1 level: **zr**  
 close all foldings 1 level: **zm**
+
+
+make windows verticals: `:wincm H`  
+make windows horizontals: `:wincm K`
