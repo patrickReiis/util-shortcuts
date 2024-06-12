@@ -62,3 +62,6 @@ close all foldings 1 level: **zm**
 make windows verticals: `:wincm H`  
 make windows horizontals: `:wincm K`  
 make all windows the same size: `Ctrl-w =`
+
+change to window to LEFT: `Ctrl-w L`  
+change to window to RIGHT: `Ctrl-w R`
