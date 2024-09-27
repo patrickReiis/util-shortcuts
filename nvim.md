@@ -66,4 +66,6 @@ make all windows the same size: `Ctrl-w =`
 change to window to LEFT: `Ctrl-w L`  
 change to window to RIGHT: `Ctrl-w R`
 
-search buffers in a nice way: `:b <name-of-buffer>`
+search buffers in a nice way: `:b <name-of-buffer>`  
+
+Center cursor without changing the screen: **M**
